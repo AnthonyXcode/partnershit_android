@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Partnershit</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="name">名稱</string>
+    <string name="name_example">彼德</string>
+    <string name="email">電郵</string>
+    <string name="password">密碼</string>
+    <string name="Facebook_login">Facebook 登入</string>
+    <string name="login_register">登入 / 注冊</string>
+</resources>
